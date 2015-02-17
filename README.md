@@ -1,10 +1,8 @@
 ## Setup
 
-### Front-end
+Just run: 
 
-```ruby
-# Gemfile
-gem 'bootstrap-sass'
-gem 'font-awesome-sass'
-gem 'simple_form'
-``
+```bash
+$ bundle install
+$ git submodule update --init --recursive
+```
