@@ -8,6 +8,7 @@ To launch the app, just run:
 $ bundle install
 $ figaro install
 $ git submodule update --init --recursive
+$ rake db:create
 $ rake db:migrate
 ```
 
@@ -21,4 +22,10 @@ development:
 production:
   FB_ID: "4************3"
   FB_SECRET: "f************2"
+```
+
+And then 
+
+```bash
+$ rails s
 ```
