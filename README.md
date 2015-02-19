@@ -1,4 +1,4 @@
-## Rails devise demo (and FB-connect boilerplate)
+## Rails devise boilerplate
 
 - This is a rails demo of devise for Le Wagon students. 
 - This is also the starting boilerplate for teachers to make demos on **Facebook connect** and on **rails mailing** 
