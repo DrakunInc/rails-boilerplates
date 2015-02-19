@@ -1,6 +1,6 @@
-## Rails facebook-connect demo
+## Rails facebook-connect boilerplate
 
-This is a Rails demo integrating devise **and facebook connect** for Le Wagon students. You can visit it at https://lewagon-rails-fb-connect.herokuapp.com
+This is a Rails boilerplate integrating devise **and facebook connect** for Le Wagon students. You can visit it at https://lewagon-rails-fb-connect.herokuapp.com
 
 To launch the app, just run: 
 
