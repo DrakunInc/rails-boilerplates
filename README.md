@@ -1,7 +1,9 @@
 
-## Rails devise boilerplate
+## Rails boilerplate with Bootstrap
 
-This is a rails boilerplate to make a demo on devise for Le Wagon students. Just run: 
+This is a simple rails boilerplate with Bootstrap (and nice custom stylesheets), to make demos for Le Wagon students. 
+
+For teachers, just run: 
 
 ```bash
 $ git clone git@github.com:lewagon/rails-authentication.git
