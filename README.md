@@ -1,7 +1,6 @@
 ## Rails devise boilerplate
 
-- This is a rails demo of devise for Le Wagon students. 
-- This is also the starting boilerplate for teachers to make demos on **Facebook connect** and on **rails mailing** 
+This is a rails devise boilerplate, used by teachers to make demos (for instance on **Facebook connect** and on **rails mailing**). 
  
 For teachers, just run:
 
@@ -16,7 +15,7 @@ $ rake db:migrate
 $ rails s
 ```
 
-To make the demo of Facebook setup on Heroku, start with:
+To make demos of production setup on Heroku, start with:
 
 ```bash
 $ git add . 
