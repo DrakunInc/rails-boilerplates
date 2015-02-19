@@ -1,9 +1,9 @@
 ## Rails devise demo (and FB-connect boilerplate)
 
 - This is a rails demo of devise for Le Wagon students. 
-- This is also the starting boilerplate to make the demo of Facebook connect on top of devise, 
+- This is also the starting boilerplate for teachers to make demos on **Facebook connect** and on **rails mailing** 
  
-Just run:
+For teachers, just run:
 
 ```bash
 $ git clone git@github.com:lewagon/rails-authentication.git
@@ -25,4 +25,4 @@ $ heroku create username-rails-fb-demo --region eu
 $ git push heroku devise:master
 ```
 
-Then you're ready to follow the slides in Karr and make a nice facebook-connect demo!
+Then you're ready to follow the slides in Karr and make a nice demo!
