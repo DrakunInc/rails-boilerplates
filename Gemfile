@@ -30,6 +30,8 @@ gem 'bootstrap-sass'
 gem 'font-awesome-sass'
 gem 'simple_form'
 
+gem "letter_opener", group: :development
+
 gem 'devise'
 
 # Use ActiveModel has_secure_password
