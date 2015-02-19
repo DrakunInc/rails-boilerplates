@@ -1,6 +1,6 @@
-## Facebook-connect demo
+## Rails facebook-connect demo
 
-This is a demo Rails app integrating devise **and facebook connect** for Le Wagon students. You can visit it at https://lewagon-rails-fb-connect.herokuapp.com
+This is a Rails demo integrating devise **and facebook connect** for Le Wagon students. You can visit it at https://lewagon-rails-fb-connect.herokuapp.com
 
 To launch the app, just run: 
 
@@ -18,10 +18,6 @@ After creating your facebook development and productions apps, add your API keys
 development:
   FB_ID: "3************1"
   FB_SECRET: "4************e"
-
-production:
-  FB_ID: "4************3"
-  FB_SECRET: "f************2"
 ```
 
 And then 
